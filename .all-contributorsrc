@@ -1,0 +1,51 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "awazgyawali",
+      "name": "Aawaz Gyawali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10810343?v=4",
+      "profile": "http://httlp://aawaz.com.np",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bimsina",
+      "name": "Bibek Timsina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29589003?v=4",
+      "profile": "https://bibek-timsina.com.np/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "735l4",
+      "name": "Pratibimba Khadka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42088682?v=4",
+      "profile": "https://github.com/735l4",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "aarjan",
+      "name": "Aarjan Baskota",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12951263?v=4",
+      "profile": "https://github.com/aarjan",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "esewa_pnp",
+  "projectOwner": "ayyshim",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
